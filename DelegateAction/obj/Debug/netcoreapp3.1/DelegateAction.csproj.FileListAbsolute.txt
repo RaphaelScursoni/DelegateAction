@@ -1,0 +1,13 @@
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.exe
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.deps.json
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.json
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.dev.json
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.dll
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.pdb
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.csprojAssemblyReference.cache
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfo.cs
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.dll
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.pdb
+C:\Users\amora\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.genruntimeconfig.cache
